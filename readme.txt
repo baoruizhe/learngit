@@ -7,5 +7,10 @@ Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 分支管理策略
+dev1  coding....
+fixed_bug
+fixed_bug
+fuck
+=======
 fixed_bug
 fixed_bug2020年3月27日
