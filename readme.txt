@@ -8,3 +8,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 分支管理策略
 fixed_bug
+fixed_bug2020年3月27日
